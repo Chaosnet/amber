@@ -1,7 +1,7 @@
 # Chaosnet - the Amber document
 
 The original sources and texinfo document corresponding to "Chaosnet", [MIT AI memo 628](http://hdl.handle.net/1721.1/6353), by David A Moon.
-This is sometimes referred to as the "Amber" document (from ["9 Princes in Amber"](https://en.wikipedia.org/wiki/Nine_Princes_in_Amber), where the name Chaos comes from [ref](https://groups.google.com/g/comp.protocols.tcp-ip/c/AeJA1K7uA-o?pli=1)).
+This is sometimes referred to as the "Amber" document (from ["9 Princes in Amber"](https://en.wikipedia.org/wiki/Nine_Princes_in_Amber), where the name Chaos comes from [[ref](https://groups.google.com/g/comp.protocols.tcp-ip/c/AeJA1K7uA-o?pli=1)]).
 
 **Abstract**
 > Chaosnet is a *local network*, that is, a system for communication
