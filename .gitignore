@@ -1,2 +1,15 @@
+*~
 
-amber.html
+*.info
+*.pdf
+*.html
+
+*.aux
+*.fn
+*.fns
+*.log
+*.op
+*.ops
+*.toc
+*.vr
+*.vrs
