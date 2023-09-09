@@ -11,11 +11,11 @@ Chaosnet local area network protocol documentation. The master file is at https:
 @end documentdescription
 
 @macro xalpha
-@math{\alpha}
+@math{\\alpha}
 @end macro
 
 @macro xbeta
-@math{\beta}
+@math{\\beta}
 @end macro
 
 @c for opcodes
